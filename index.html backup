@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Freelance Guitarist">
+    <meta name="author" content="Zack Sarkissian">
+
+    <title>Zack Sarkissian</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+
+    <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/grayscale.css" rel="stylesheet">
+
+
+
+</head>
+
+<body id="page-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">Zack Sarkissian</a>
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+
+                <i class="fas fa-music"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="#audio">Audio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="#images">Images</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="#video">Media</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="#bio">Bio</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Header -->
+    <header class="masthead">
+
+    </header>
+
+    <!-- Audio Section -->
+    <section id="audio" class="audio-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-10 col-lg-8 mx-auto text-center text-light">
+                    <h2></h2>
+                    <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/659356338&color=%23c8c2c2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Images Section -->
+
+    <section id="images" class="" style="">
+
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="4" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
+            </ol>
+            <div class="carousel-inner" role="listbox">
+                <!-- Slide One - Set the background image for this slide in the line below -->
+                <div class="carousel-item active" style="background-image: url('img/bg-masthead.jpg')">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                </div>
+                <!-- Slide Two - Set the background image for this slide in the line below -->
+                <div class="carousel-item" style="background-image: url('img/IMG_4808.jpg')">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                </div>
+                <!-- Slide Three - Set the background image for this slide in the line below -->
+                <div class="carousel-item" style="background-image: url('img/IMG_4678.jpg')">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                </div>
+                 <!-- Slide Four - Set the background image for this slide in the line below -->
+                <div class="carousel-item" style="background-image: url('img/IMG_4785.jpg')">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                </div>
+                <!-- Slide Five - Set the background image for this slide in the line below -->
+                <div class="carousel-item" style="background-image: url('img/IMG_4765(1).jpg')">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                </div>
+                <!-- Slide Six - Set the background image for this slide in the line below -->
+                <div class="carousel-item" style="background-image: url('img/IMG_4759.jpg')">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                </div>
+                <!-- Slide Seven - Set the background image for this slide in the line below -->
+                <div class="carousel-item" style="background-image: url('img/bg-signup.jpg')">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                </div>
+                <!-- Slide Eight - Set the background image for this slide in the line below -->
+                <div class="carousel-item" style="background-image: url('img/bg-audio.jpg')">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </section>
+
+    <!-- Media Section -->
+    <section id="video" class="video-section">
+        <h2 class="text-white mb-3 text-center">Media Links</h2>
+        <div class="social d-flex justify-content-center">
+            <a href="https://www.instagram.com/zacksarkissian/" target="_blank" class="mx-2">
+                <i class="fab fa-instagram fa-3x" style="margin-right: 35px;"></i>
+            </a>
+            <a href="https://twitter.com/zacksarkissian" target="_blank" class="mx-2">
+                <!--<i class="fab fa-twitter fa-3x"></i>-->
+            </a>
+            <a href="https://www.facebook.com/ZackSarkissianmusic/" target="_blank" class="mx-2">
+                <i class="fab fa-facebook-f fa-3x" style="margin-right: 35px;"></i>
+            </a>
+            <a href="https://www.youtube.com/channel/UCBoss-u9bicS70MRUoOavCw/featured" target="_blank" class="mx-2">
+                <i class="fab fa-youtube fa-3x" style="margin-right: 35px;"></i>
+            </a>
+            <a href="https://soundcloud.com/zack-sarkissian" target="_blank" class="mx-2">
+                <i class="fab fa-soundcloud fa-3x"></i>
+            </a>
+        </div>
+        <div>
+            <h2>
+            </h2>
+        </div>
+
+        <h2 class="text-white mb-4 text-center"></h2>
+        <h2 class="text-white mb-4 text-center">Instagram</h2>
+        <div class="container">
+            <div class="row">
+
+                <!-- LightWidget WIDGET -->
+                <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/9834926f3dbd5c2683f44127bc5c4f80.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+
+            </div>
+        </div>
+        <div>
+            <h2 class="text-white mb-4 text-center" style="padding-top: 2rem">Facebook</h2>
+            <div class="container">
+                <div class="row justify-content-center">
+
+                    <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FZackSarkissianmusic%2F&tabs=timeline&width=500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact-section bg-black" id="contact">
+        <h2 class="text-white mb-4 text-center">Contact</h2>
+        <div class="container">
+            <div class="row">
+
+                <div class="col-md-4 mb-3 mb-md-0">
+                    <div class="card py-4 h-100">
+                        <div class="card-body text-center">
+                            <i class="fas fa-map-marked-alt text-primary mb-2"></i>
+                            <h4 class="text-uppercase m-0">Events</h4>
+                            <hr class="my-4">
+                            <div class="small text-black-50">Upcoming shows <br>
+                                <br>January 16, 2019 - <a href="http://www.facebook.com/zacksarkissianmusic">Crash of Rhinos!</a>
+                                <!-- Z - here is where you will add your events. Dates and Location (with a link) as a template provided in this comment <br>November 18, 2018 - <a href="http://www.facebook.com">Bigsby's Bar</a><br>November 21, 2018 - <a href="http://www.facebook.com">Chigsby's Bar</a><br>November 25, 2018 - <a href="http://www.facebook.com">Rigsby's Bar
+                                    delete the <!-- above and this line to remove the comments-->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 mb-3 mb-md-0">
+                    <div class="card py-4 h-100">
+                        <div class="card-body text-center">
+                            <i class="fas fa-envelope text-primary mb-2"></i>
+                            <h4 class="text-uppercase m-0">Book me</h4>
+                            <hr class="my-4">
+                            <div class="small text-black-50">
+                                Playing out and filling in for rock, blues and soul musicians or playing originals; let me know <br><br>
+                                <a href="#">sarkissian.zack@gmail.com</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 mb-3 mb-md-0">
+                    <div class="card py-4 h-100">
+                        <div class="card-body text-center">
+                            <i class="fas fa-fist-raised text-primary mb-2"></i>
+                            <h4 class="text-uppercase m-0">Currently Playing</h4>
+                            <hr class="my-4">
+                            <div class="small text-black-50"><a href="https://www.facebook.com/CrashofRhinosBand/" target="_blank">Crash of Rhinos!</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+
+    <!-- bio Section -->
+    <section id="bio" class="about-section text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-white mb-4">Autobiography</h2>
+                    <p class="text-white-50">
+                        At a young age, I didn’t know music would later become my passion. My parents bought me an acoustic guitar and signed me up for guitar lessons, but beyond having an affinity with the instrument, I wasn’t motivated to learn how to sight read and practice at home. Little did I know that 8 years later, in high school, the sound of an electric guitar would hit me right to my soul: Master of Puppets by Metallica. I was hooked. Call it teenage angst or just a sound to express how I felt inside, something inside me woke up that day. The first time around, I was given a guitar. Now, I was being called to it! <br><br>
+
+                        I had to do a lot of chores that summer to earn my electric guitar starter pack set. In my last year of high school, I formed my first band called “Highjack’d”. This is when I discovered my passion for classic rock and the blues. It felt natural to express myself with a guitar in hand. From angry to happy, I could let it all out on chord at a time.<br> <br>
+                        Artists such as<strong> Aerosmith, GNR, Thin Lizzy, SRV, Boston, Lynyrd Skynyrd, ACDC, The Rolling Stones, The Beatles, The Black Crowes, Motley Crüe, Alice Cooper, Buddy Guy, Cream, KISS, Led Zeppelin, Skid Row, Supertramp, System of a down, The Doors and Jimi Hendrix,</strong> just to name a few, were my greatest influences. <br><br>
+
+                        After my first band began drifting apart, the singer and I eventually met a drummer, a bass player and a guitar player with whom we had great musical chemistry. We became the band “Monroe.” I played with these boys for 4 years and my skills really took a leap during this period. We learned covers, wrote original songs and played several shows around Montreal. Unfortunately, the band had a fallout. Many bruised egos & broken instruments later, we parted ways. <br><br>
+
+                        For almost a year and half after, I had lost my musical spark and felt directionless. On a whim, I booked a flight to LA — something I’d always wanted to do—hoping to shake things up and find my way again. All I knew is that I wanted to be on a stage or around a stage. Musician’s Institute seemed to me like the most promising option. I got a loan from the bank, saved up a lot of money and with my parent’s help, moved to Los Angeles, California. I learned from the likes of <strong>David Isaac, Barry Rudolph, Jim Morgan, Jerry Christie, Mehdi Hassine, Billy Thornton, Ted Blaisdell </strong> to name a few. Around this time, I formed a band with some friends from school who came to LA from all over the world. We recorded songs and played a few gigs in town. I had the time of my life.<br><br>
+
+
+                        After a year in LA, I came back to Montreal and worked as a sound engineer in festivals, events and for bands. For a little over a year now, I have been playing and keeping busy with the band “Crash of Rhinos.” I’m currently looking to play as many live gigs as I possibly can.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/grayscale.min.js"></script>
+
+
+    <script src="jquery.min.js"></script>
+    <script src="bootstrap.bundle.min.js"></script>
+
+    <!-- Footer -->
+    <footer class="small text-center text-white-50">
+        <div class="container">
+            Copyright &copy; Zack Sakissian - Made with <span style="color: #e25555;">&hearts;</span> by <a href="http://www.jensson.ca" target="_blank">Andrew Jensson</a> - 2018
+        </div>
+    </footer>
+
+
+
+</body>
+
+</html>

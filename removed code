@@ -1,0 +1,259 @@
+<!--Images Section -->
+<section id="images" class="projects-section bg-light">
+        <h2 class="text-dark mb-3 text-center">Images</h2><br>
+
+        <div class="container d-flex justify-content-center" style="margin: 0 auto; width: 100%; height: auto">
+            <ul class="slides">
+                <input type="radio" name="radio-btn" id="img-1" checked / >
+                <li class="slide-container">
+                    <div class="slide img-fluid">
+                        <img src="/img/bg-signup.jpg" / style="width: 100%; height: auto; background-position: 10% 10%; background-repeat: no-repeat; background-size: cover;">
+                    </div>
+                    <div class="nav">
+                        <label for="img-6" class="prev">&#x2039;</label>
+                        <label for="img-2" class="next">&#x203a;</label>
+                    </div>
+                </li>
+
+                <input type="radio" name="radio-btn" id="img-2" />
+                <li class="slide-container">
+                    <div class="slide img-fluid">
+                        <img src="/img/IMG_4808.jpg" />
+                    </div>
+                    <div class="nav">
+                        <label for="img-1" class="prev">&#x2039;</label>
+                        <label for="img-3" class="next">&#x203a;</label>
+                    </div>
+                </li>
+
+                <input type="radio" name="radio-btn" id="img-3" />
+                <li class="slide-container">
+                    <div class="slide img-fluid">
+                        <img src="/img/IMG_4765(1).jpg" />
+                    </div>
+                    <div class="nav">
+                        <label for="img-2" class="prev">&#x2039;</label>
+                        <label for="img-4" class="next">&#x203a;</label>
+                    </div>
+                </li>
+
+                <input type="radio" name="radio-btn" id="img-4" />
+                <li class="slide-container">
+                    <div class="slide img-fluid">
+                        <img src="/img/IMG_4759.jpg" />
+                    </div>
+                    <div class="nav">
+                        <label for="img-3" class="prev">&#x2039;</label>
+                        <label for="img-5" class="next">&#x203a;</label>
+                    </div>
+                </li>
+
+                <input type="radio" name="radio-btn" id="img-5" />
+                <li class="slide-container">
+                    <div class="slide img-fluid">
+                        <img src="/img/IMG_4785.jpg" />
+                    </div>
+                    <div class="nav">
+                        <label for="img-4" class="prev">&#x2039;</label>
+                        <label for="img-6" class="next">&#x203a;</label>
+                    </div>
+                </li>
+
+                <input type="radio" name="radio-btn" id="img-6" />
+                <li class="slide-container">
+                    <div class="slide img-fluid">
+                        <img src="/img/bg-masthead.jpg" />
+                    </div>
+                    <div class="nav">
+                        <label for="img-5" class="prev">&#x2039;</label>
+                        <label for="img-1" class="next">&#x203a;</label>
+                    </div>
+                </li>
+
+                <li class="nav-dots">
+                    <label for="img-1" class="nav-dot" id="img-dot-1" style="background-color: white"></label>
+                    <label for="img-2" class="nav-dot" id="img-dot-2" style="background-color: white"></label>
+                    <label for="img-3" class="nav-dot" id="img-dot-3" style="background-color: white"></label>
+                    <label for="img-4" class="nav-dot" id="img-dot-4" style="background-color: white"></label>
+                    <label for="img-5" class="nav-dot" id="img-dot-5" style="background-color: white"></label>
+                    <label for="img-6" class="nav-dot" id="img-dot-6" style="background-color: white"></label>
+                </li>
+            </ul>
+        </div>
+
+    </section>
+    
+        <!-- Featured Project Row -->
+        <div class="row align-items-center no-gutters mb-4 mb-lg-5">
+          <div class="col-xl-8 col-lg-7">
+            <img class="img-fluid mb-3 mb-lg-0" src="img/IMG_4678.jpg" alt="">
+          </div>
+          <div class="col-xl-4 col-lg-5">
+            <div class="featured-text text-center text-lg-left">
+              <h4>Guitar Player</h4>
+              <p class="text-black-50 mb-0">The ultimate crowdpleaser<br><br><strong>Style Variations</strong><br>Rock, Metal, Blues, Soul</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Project One Row -->
+        <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
+          <div class="col-lg-6">
+            <img class="img-fluid" src="img/IMG_4785.jpg" style="margin-top: px" alt="">
+          </div>
+          <div class="col-lg-6">
+            <div class="bg-black text-center h-100 project">
+              <div class="d-flex h-100">
+                <div class="project-text w-100 my-auto text-center text-lg-left">
+                  <h4 class="text-white">Original Compositions</h4>
+                  <p class="mb-0 text-white-50">Making music since 2003<br><br><strong>Varieties</strong><br>Rock, Blues, Meditation, Soul, Instrumental</p>
+                  <hr class="d-none d-lg-block mb-0 ml-0">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Project Two Row -->
+        <div class="row justify-content-center no-gutters">
+          <div class="col-lg-6">
+            <img class="img-fluid" src="img/IMG_4759.jpg" alt="">
+          </div>
+          <div class="col-lg-6 order-lg-first">
+            <div class="bg-black text-center h-100 project">
+              <div class="d-flex h-100">
+                <div class="project-text w-100 my-auto text-center text-lg-right">
+                  <h4 class="text-white">With Hat, or Without</h4>
+                  <p class="mb-0 text-white-50">I also have boots</p>
+                  <hr class="d-none d-lg-block mb-0 mr-0">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+          
+          
+          
+      </div>
+      
+      
+      css
+      
+      .nav-dots {
+	width: 100%;
+	bottom: 9px;
+	height: 11px;
+	display: block;
+	position: absolute;
+	text-align: center;
+}
+
+.nav-dots .nav-dot {
+	top: -5px;
+	width: 11px;
+	height: 11px;
+	margin: 0 4px;
+	position: relative;
+	border-radius: 100%;
+	display: inline-block;
+	background-color: rgba(0, 0, 0, 0.6);
+}
+
+.nav-dots .nav-dot:hover {
+	cursor: pointer;
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+input#img-1:checked ~ .nav-dots label#img-dot-1,
+input#img-2:checked ~ .nav-dots label#img-dot-2,
+input#img-3:checked ~ .nav-dots label#img-dot-3,
+input#img-4:checked ~ .nav-dots label#img-dot-4,
+input#img-5:checked ~ .nav-dots label#img-dot-5,
+input#img-6:checked ~ .nav-dots label#img-dot-6 {
+	background: rgba(0, 0, 0, 0.8);
+}
+
+
+html
+
+        <h2 class="text-dark mb-3 text-center">Images</h2><br>
+    
+        
+        <div class="container d-flex justify-content-center" style="margin: 0 auto; display: table-cell; vertical-align: middle;">
+            <ul class="slides">
+                <input type="radio" name="radio-btn" id="img-1" checked />
+                <li class="slide-container">
+                    <div class="slide img-fluid">
+                        <img src="/img/bg-signup.jpg"/ style="min-width: 300px; height: auto; display: table-cell; vertical-align: middle; ">
+                    </div>
+                    <div class="nav">
+                        <label for="img-6" class="prev">&#x2039;</label>
+                        <label for="img-2" class="next">&#x203a;</label>
+                    </div>
+                </li>
+
+                <input type="radio" name="radio-btn" id="img-2" />
+                <li class="slide-container">
+                    <div class="slide img-fluid">
+                        <img src="/img/IMG_4808.jpg" /style="min-width: 250px; height: auto; display: table-cell; vertical-align: middle;">
+                    </div>
+                    <div class="nav">
+                        <label for="img-1" class="prev">&#x2039;</label>
+                        <label for="img-3" class="next">&#x203a;</label>
+                    </div>
+                </li>
+
+                <input type="radio" name="radio-btn" id="img-3" />
+                <li class="slide-container">
+                    <div class="slide img-fluid">
+                        <img src="/img/IMG_4765(1).jpg" / style="min-width: 300px; height: auto">
+                    </div>
+                    <div class="nav">
+                        <label for="img-2" class="prev">&#x2039;</label>
+                        <label for="img-4" class="next">&#x203a;</label>
+                    </div>
+                </li>
+
+                <input type="radio" name="radio-btn" id="img-4" /style="min-width: 500px; height: auto">
+                <li class="slide-container">
+                    <div class="slide img-fluid">
+                        <img src="/img/IMG_4759.jpg" /style="min-width: 300px; height: auto">
+                    </div>
+                    <div class="nav">
+                        <label for="img-3" class="prev">&#x2039;</label>
+                        <label for="img-5" class="next">&#x203a;</label>
+                    </div>
+                </li>
+
+                <input type="radio" name="radio-btn" id="img-5" />
+                <li class="slide-container">
+                    <div class="slide img-fluid">
+                        <img src="/img/IMG_4785.jpg" /style="min-width: 300px; height: auto">
+                    </div>
+                    <div class="nav">
+                        <label for="img-4" class="prev">&#x2039;</label>
+                        <label for="img-6" class="next">&#x203a;</label>
+                    </div>
+                </li>
+
+                <input type="radio" name="radio-btn" id="img-6" />
+                <li class="slide-container">
+                    <div class="slide img-fluid">
+                        <img src="/img/bg-masthead.jpg" /style="min-width: 300px; height: auto">
+                    </div>
+                    <div class="nav">
+                        <label for="img-5" class="prev">&#x2039;</label>
+                        <label for="img-1" class="next">&#x203a;</label>
+                    </div>
+                </li>
+
+                <li class="nav-dots">
+                    <label for="img-1" class="nav-dot" id="img-dot-1" style="background-color: white" ></label>
+                    <label for="img-2" class="nav-dot" id="img-dot-2" style="background-color: white"></label>
+                    <label for="img-3" class="nav-dot" id="img-dot-3" style="background-color: white"></label>
+                    <label for="img-4" class="nav-dot" id="img-dot-4" style="background-color: white"></label>
+                    <label for="img-5" class="nav-dot" id="img-dot-5" style="background-color: white"></label>
+                    <label for="img-6" class="nav-dot" id="img-dot-6" style="background-color: white"></label>
+                </li>
+            </ul>
+        </div> 
